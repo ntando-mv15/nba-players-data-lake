@@ -15,3 +15,6 @@ The setup_nba_data_lake.py script performs the following actions:
 - AWS Services: S3, Glue, Athena, IAM
 
 
+### Project Documentation
+
+Find detailed project documentation here: https://medium.com/@ntando.mv15/sports-analytics-data-lake-project-e5636c43d707
